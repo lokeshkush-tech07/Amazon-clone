@@ -52,6 +52,9 @@
     height: 40px;
     border-radius: 4px;
 }
+.nav-search:hover{
+    border-color: orange;
+}
 .search-select{
     text-align: centre;
     width: 50px;
@@ -91,4 +94,17 @@
 .nav-return span{
     font-size: 0.85rem;
     color: #cccccc;
+}
+/*box 6*/
+.nav-cart{
+    font-size: 1rem;
+    display: flex;
+}
+.nav-cart i{
+    font-size: 35px;
+    margin-left: 1px;
+}
+.nav-cart p {
+    margin-top: 20px;
+    font-weight: 700;
 }
