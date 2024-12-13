@@ -108,3 +108,25 @@
     margin-top: 20px;
     font-weight: 700;
 }
+
+/*panel*/
+.panel{
+    background-color: #222f3d;
+    height: 40px;
+    display: flex;
+    color: white;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.panel-nav p{
+    display: inline;
+    margin-left: 10px;
+}
+.panel-nav{
+    width: 70%;
+    font-size: 0.85rem;
+}
+.panel-last-nav{
+    font-size: 0.9rem;
+    font-weight: 700;
+}
