@@ -130,3 +130,19 @@
     font-size: 0.9rem;
     font-weight: 700;
 }
+.hero_section{
+    background-image: url("hero_image.jpg");
+    height: 600px;
+    background-size: cover;
+}
+.hero_para{
+    background-color: white;
+    color: #000;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 300px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
